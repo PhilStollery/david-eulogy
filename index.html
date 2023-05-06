@@ -545,7 +545,6 @@
                 required 
                 placeholder="Name"
                 class="home-name5 input"
-                oninvalid="this.setCustomValidity('Please leave your name')"
               />
               <input
                 type="email"
@@ -553,14 +552,15 @@
                 required 
                 placeholder="E-mail"
                 class="home-email input"
-                oninvalid="this.setCustomValidity('Please leave your email so we can get back to you')"
               />
               <textarea
                 placeholder="Your Message"
                 class="home-message textarea"
               ></textarea>
+              <div class="home-email">
               <input type="checkbox" id="display" name="display" value="display">
-              <label for="display"> I would like my message to appear online</label><br/>
+              <label for="display"> I would like my message to appear online</label>
+              </div>
               <button class="home-cta-btn2 Anchor button" type="submit">SEND</button>
               </form>
             </div>
