@@ -182,11 +182,15 @@
 .home-heading {
   text-align: center;
   margin-bottom: var(--dl-space-space-fiveunits);
+  font-size: 5em;
+  font-family: baskerville, serif;
 }
 .home-text {
   color: var(--dl-color-gray-700);
   text-align: center;
   margin-bottom: var(--dl-space-space-fiveunits);
+  font-size: 3em;
+  font-family: 'Arial Black', sans-serif;
 }
 .home-cta-btn1 {
   color: var(--dl-color-gray-white);
