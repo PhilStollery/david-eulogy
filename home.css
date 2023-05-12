@@ -36,6 +36,16 @@
   flex-direction: row;
   justify-content: center;
 }
+.home-title-middle {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.home-title-middle h1{
+  font-size: medium;
+}
+
 .home-image {
   width: 50px;
   align-self: center;
