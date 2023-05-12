@@ -147,6 +147,7 @@
 }
 .home-hero {
   width: 100%;
+  min-height: 500px;
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-tenunits);
