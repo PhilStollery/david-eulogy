@@ -144,21 +144,11 @@ hr {
 }
 
 .flair {
-  width: 65%;
+  width: 75%;
   height: 30px;
   border-style: solid;
   border-color: hsla(0, 0%, 75%, 0.9);
   border-width: 1px 0 0 0;
-  border-radius: 15px;
-}
-.flair:before {
-  display: block;
-  height: 30px;
-  margin-top: -31px;    
-  border-style: solid;
-  border-color: hsla(0, 0%, 75%, 0.9);
-  border-width: 0 0 1px 0;
-  border-radius: 15px;
 }
 
 .hidden { display: none;}
