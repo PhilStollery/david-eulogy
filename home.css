@@ -246,7 +246,7 @@
   justify-content: space-between;
 }
 .home-features-card {
-  width: 30%;
+  width: 33%;
   display: flex;
   align-items: flex-start;
   padding-top: var(--dl-space-space-doubleunit);
@@ -282,6 +282,9 @@
 .home-text02 {
   color: var(--dl-color-gray-500);
   text-align: left;
+}
+.home-text02 p {
+  margin-bottom: 1em;
 }
 .home-features-card1 {
   width: 30%;

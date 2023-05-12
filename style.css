@@ -25,8 +25,8 @@
   --dl-space-space-fiveunits: 20px;
   --dl-space-space-fourunits: 16px;
   --dl-radius-radius-radius24: 24px;
-  --dl-space-space-doubleunit: 16px;
-  --dl-space-space-tripleunit: 24px;
+  --dl-space-space-doubleunit: 8px;
+  --dl-space-space-tripleunit: 12px;
 }
 .teleport-show {
   display: flex !important;
