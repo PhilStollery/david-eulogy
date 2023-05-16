@@ -1686,3 +1686,8 @@ logo-slider:after {
     transform: translateX(-100%);
   }
 }
+
+.author-donations {
+  padding: 2em;
+  text-align: center;
+}
