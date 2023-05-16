@@ -1672,6 +1672,11 @@ logo-slider:after {
   top: 0;
   background: linear-gradient(to right, white, rgba(255, 255, 255, 0) 80px, rgba(255, 255, 255, 0) calc(100% - 80px), white);
 }
+@media (max-width: 900px) {
+  logo-slider {
+    --image-size: 250px;
+  }
+}
 
 @keyframes marquee {
   0% {
